@@ -1,2 +1,3 @@
-# C-mini-project-
-first mini project to create a student mark analyzer
+# SOFT-Python-Learning
+30 Days of python - jain university | Staff : Sathish Kumar M
+  
